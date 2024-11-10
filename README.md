@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Mahdipoorjahangiri/Mahdipoorjahangiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner and an aspiring data professional with a strong curiosity for new technologies and trends. I'm actively seeking opportunities in the data field, where I can grow and make an impact through data-driven insights.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🌱 Always eager to learn and explore new concepts, especially in the tech space.
+- 
+## 💼 Technologies Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Machine Learning and Data Science:** TensorFlow, Keras, Scikit-learn, Seaborn
+- **Programming Languages:** Python
+- **Database Management:** Microsoft SQL Server, Pandas
+- **Version Control:** Git
+
+## 🌱 I’m currently learning
+
+- Keras
+- machine learning and deep learning concept
+- Data Engineering
+- 
+## 💼 Goals
+I'm on the lookout for roles in data analysis, data science, or data engineering. I believe in the power of data to transform decisions and drive success.
+
+## 📫 How to Reach Me
+Feel free to connect with me here on GitHub, or reach out via [LinkedIn](linkedin.com/in/mahdi-poorjahangiri)
+
+---
