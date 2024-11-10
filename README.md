@@ -22,6 +22,6 @@ I'm a passionate learner and an aspiring data professional with a strong curiosi
 I'm on the lookout for roles in data analysis, data science, or data engineering. I believe in the power of data to transform decisions and drive success.
 
 ## 📫 How to Reach Me
-Feel free to connect with me here on GitHub, or reach out via [LinkedIn](#linkedin.com/in/mahdi-poorjahangiri)
+Feel free to connect with me here on GitHub, or reach out via [LinkedIn](/linkedin.com/in/mahdi-poorjahangiri)
 
 ---
