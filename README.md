@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-# Hi there! 👋<br><br>I'm a passionate learner and an aspiring data professional with a strong curiosity for new technologies and trends. I'm actively seeking opportunities in the data field, where I can grow and make an impact through data-driven insights.<br><br>🌱 Always eager to learn and explore new concepts, especially in the tech space.<br><br><br><br><br>## 💼 Goals<br>I'm on the lookout for roles in data analysis, data science, or data engineering. I believe in the power of data to transform decisions and drive success.
+# Hi there! 👋<br><br>I'm a passionate learner and an aspiring data professional with a strong curiosity for new technologies and trends. I'm actively seeking opportunities in the data field, where I can grow and make an impact through data-driven insights.<br><br>Always eager to learn and explore new concepts, especially in the tech space.<br><br>🌱 I’m currently learning<br><br>- Keras<br>- machine learning and deep learning concept<br>- Data Engineering<br><br>💼 Goals<br>I'm on the lookout for roles in data analysis, data science, or data engineering. I believe in the power of data to transform decisions and drive success.
 
 
 ## 🌐 Socials:
